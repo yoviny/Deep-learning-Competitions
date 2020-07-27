@@ -1,5 +1,5 @@
 ![Bengali.AI logo](https://github.com/yoviny/Deep-learning-Competitions/blob/master/Bengali.Ai%20classification%20challenge/bengali%20logo.jpg)
-# Bengali.AI Handwritten Grapheme Classification
+# Bengali.AI Handwritten Grapheme Classification (20/12/2019 - 17/03/2020)
 
 **Competition leaderboard ranking - 59/2059 (top 3%)**
 
