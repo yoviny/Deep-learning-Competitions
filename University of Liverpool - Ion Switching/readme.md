@@ -1,4 +1,4 @@
-# University of Liverpool - Ion Switching
+# University of Liverpool - Ion Switching (25/02/2020 - 26/05/2020)
 **Identify the number of channels open at each time point**
 
 Many diseases, including cancer, are believed to have a contributing factor in common. Ion channels are pore-forming proteins present in animals and plants. They encode learning and memory, help fight infections, enable pain signals, and stimulate muscle contraction. If scientists could better study ion channels, which may be possible with the aid of machine learning, it could have a far-reaching impact.
