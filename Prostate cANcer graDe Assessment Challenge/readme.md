@@ -3,7 +3,7 @@
 # Prostate cANcer graDe Assessment (PANDA) Challenge (21/04/2020 - 23/07/2020)
 **Prostate cancer diagnosis using the Gleason grading system**
 
-**Leaderboard ranking - 535/1010 (top 53%)
+**Leaderboard ranking - 535/1010 (top 53%)**
 
 https://www.kaggle.com/c/prostate-cancer-grade-assessment
 
