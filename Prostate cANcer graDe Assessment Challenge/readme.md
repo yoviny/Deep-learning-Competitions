@@ -3,6 +3,8 @@
 # Prostate cANcer graDe Assessment (PANDA) Challenge (21/04/2020 - 23/07/2020)
 **Prostate cancer diagnosis using the Gleason grading system**
 
+**Leaderboard ranking - 535/1010 (top 53%)
+
 https://www.kaggle.com/c/prostate-cancer-grade-assessment
 
 With more than 1 million new diagnoses reported every year, prostate cancer (PCa) is the second most common cancer among males worldwide that results in more than 350,000 deaths annually. The key to decreasing mortality is developing more precise diagnostics. Diagnosis of PCa is based on the grading of prostate tissue biopsies. These tissue samples are examined by a pathologist and scored according to the Gleason grading system. In this challenge, you will develop models for detecting PCa on images of prostate tissue samples, and estimate severity of the disease using the most extensive multi-center dataset on Gleason grading yet available.
