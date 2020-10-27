@@ -1,4 +1,4 @@
-<img src="https://github.com/yoviny/Deep-learning-Competitions/blob/master/Prostate%20cANcer%20graDe%20Assessment%20Challenge/thumbnail.png" width="128">
+<img src="https://github.com/yoviny/Deep-learning-Competitions/blob/master/OSIC%20Pulmonary%20Fibrosis%20Progression/thumbnail.png" width="128">
 
 # OSIC Pulmonary Fibrosis Progression (07/07/2020 - 07/10/2020)
 **Predict lung function decline**
