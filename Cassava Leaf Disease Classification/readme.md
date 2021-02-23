@@ -1,4 +1,4 @@
-<img src="" width="128">
+<img src="https://raw.githubusercontent.com/yoviny/Deep-learning-Competitions/master/Cassava%20Leaf%20Disease%20Classification/cassava_thumbnail.jpg" width="128">
 
 # Cassava Leaf Disease Classification (20/11/2020 - 19/02/2021)
 **Identify the type of disease present on a Cassava Leaf imagee**
