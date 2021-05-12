@@ -16,4 +16,4 @@ The challenge is to detect functional tissue units (FTUs) across different tissu
 # Evaluation metric
 Submissions are evaluated on the mean Dice coefficient. The Dice coefficient can be used to compare the pixel-wise agreement between a predicted segmentation and its corresponding ground truth. The formula is given by:
 
-<img src="https://raw.githubusercontent.com/yoviny/Deep-learning-Competitions/master/HuBMAP%20-%20Hacking%20the%20Kidney/dice%20coeff%20eq.png" width="128>
+<img src="https://github.com/yoviny/Deep-learning-Competitions/blob/master/HuBMAP%20-%20Hacking%20the%20Kidney/thumbnail_hubmap.png" width="128">
