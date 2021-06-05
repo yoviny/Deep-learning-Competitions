@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="256">
+<img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" width="224">
 
 Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
 [source:https://en.wikipedia.org/wiki/Kaggle]
