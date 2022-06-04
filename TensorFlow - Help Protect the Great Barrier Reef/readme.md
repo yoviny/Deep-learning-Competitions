@@ -1,4 +1,4 @@
-<img src="https://github.com/yoviny/Deep-learning-Competitions/blob/master/Prostate%20cANcer%20graDe%20Assessment%20Challenge/thumbnail.png" width="128">
+<img src="https://github.com/yoviny/Deep-learning-Competitions/blob/master/TensorFlow%20-%20Help%20Protect%20the%20Great%20Barrier%20Reef/thumbnail.jpg" width="128">
 
 # TensorFlow - Help Protect the Great Barrier Reef (22/11/2021 - 14/02/2022)
 **Detect crown-of-thorns starfish in underwater image data**
@@ -11,7 +11,7 @@ The goal of this competition is to accurately identify starfish in real-time by 
 
 Your work will help researchers identify species that are threatening Australia's Great Barrier Reef and take well-informed action to protect the reef for future generations.
 
-![image](https://github.com/yoviny/Deep-learning-Competitions/blob/master/Prostate%20cANcer%20graDe%20Assessment%20Challenge/panda-image.png)
+![image](https://github.com/yoviny/Deep-learning-Competitions/blob/master/TensorFlow%20-%20Help%20Protect%20the%20Great%20Barrier%20Reef/GBR_cover.png)
 
 [source:https://www.kaggle.com/competitions/tensorflow-great-barrier-reef/overview/description)
 
